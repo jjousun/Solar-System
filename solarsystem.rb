@@ -1,4 +1,4 @@
-# create a new Class
+# create a new Class called Planet
 class Planet
   attr_accessor :name, :diameter, :mass, :moon, :orbit, :distance_from_the_sun, :solar_rotation
   # am still trying to understand when instance variables should be read vs written over
